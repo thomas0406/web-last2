@@ -1,0 +1,35 @@
+body {
+    background-color: crimson;
+}
+
+h1 {
+    text-decoration: none;
+    color: white;
+}
+
+.video {
+    list-style-type: none;
+    padding: 10px;
+    margin: 3px;
+    color: white;
+    font-size: 30px;
+    
+    
+}
+
+.video:hover {
+   background-color: greenyellow;
+    transition: .5s ease-in-out;
+    transition-delay: .3s;
+    border-radius: 100px;
+}
+
+.kakak {
+    
+    height: 100px;
+}
+
+.FOTO {
+    width: 50%;
+    
+}
